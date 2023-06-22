@@ -2,11 +2,8 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "62kFjF6Px3a":
+      case "5W3rqf7aPih":
         Script1();
-        break;
-      case "6gJd3ZYpxcN":
-        Script2();
         break;
   }
 }
@@ -46,10 +43,5 @@ function goodle(input) {
 }
 
 
-}
-
-function Script2()
-{
-  //TODO
 }
 
