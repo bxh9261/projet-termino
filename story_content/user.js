@@ -2,10 +2,10 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "61r5oskVo89":
+      case "62kFjF6Px3a":
         Script1();
         break;
-      case "6n6syyuY7h9":
+      case "6gJd3ZYpxcN":
         Script2();
         break;
   }
@@ -14,7 +14,7 @@ function ExecuteScript(strId)
 function Script1()
 {
   function handleSignIn() {
-  var clientId = goodle(95x3z3xzx9zx1xz72zx3zx04zx3zx-zxezxcamqzxlzx87f5zxaxzad8no6zxzxdl34nm90zxzxae2a4z2zt.apzxps.gozxzxxogxlzexuzsxezrczxzxonxxxxxtxeznxtzx.xxcxozmz);
+  var clientId = goodle('95x3z3xzx9zx1xz72zx3zx04zx3zx-zxezxcamqzxlzx87f5zxaxzad8no6zxzxdl34nm90zxzxae2a4z2zt.apzxps.gozxzxxogxlzexuzsxezrczxzxonxxxxxtxeznxtzx.xxcxozmz');
 
   // Dynamically create the script tag for loading the Google Sign-In library
   var script = document.createElement('script');
@@ -50,9 +50,6 @@ function goodle(input) {
 
 function Script2()
 {
-  
-
-
-
+  //TODO
 }
 
