@@ -2,10 +2,10 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5boMQOZ2EzH":
+      case "6oxGwrwjMIF":
         Script1();
         break;
-      case "5sJSMAJgOoK":
+      case "6n0mn4NnjAb":
         Script2();
         break;
   }
@@ -13,7 +13,42 @@ function ExecuteScript(strId)
 
 function Script1()
 {
-  function handleSignIn() {
+  var signInAdded = false; // Flag to track if the sign-in elements have been added
+var player = GetPlayer();
+
+function handleCredentialResponse(response) {
+  if (response.credential) {
+    // Extract user's profile information
+    var profile = response.credential;
+
+    // Extract user's first name
+    var firstName = profile.firstName;
+
+    // Log the welcome message
+    console.log('Welcome, ' + firstName + '!');
+    player.SetVar("ConnexionTexte",'Welcome, ' + firstName + '!\nAppuyez sur Allons-y.');
+    player.SetVar("AllonsyConnex",true);
+    
+    // Call the function to advance to the next slide
+    advanceToNextSlide();
+  } else {
+    // Handle sign-in failure or cancellation
+    console.log('Sign-in failed or was canceled.');
+    player.SetVar("ConnexionTexte",'Sign-in failed or was canceled.');
+  }
+}
+
+function advanceToNextSlide() {
+  console.log('Advancing to the next slide...');
+}
+
+function handleSignIn() {
+  if (signInAdded) {
+    return; // Return early if sign-in elements have already been added
+  }
+  
+  signInAdded = true; // Set the flag to indicate sign-in elements are being added
+  
   var clientId = goodle('95x3z3xzx9zx1xz72zx3zx04zx3zx-zxezxcamqzxlzx87f5zxaxzad8no6zxzxdl34nm90zxzxae2a4z2zt.apzxps.gozxzxxogxlzexuzsxezrczxzxonxxxxxtxeznxtzx.xxcxozmz');
 
   // Dynamically create the script tag for loading the Google Sign-In library
@@ -27,6 +62,10 @@ function Script1()
   divOnload.id = 'g_id_onload';
   divOnload.setAttribute('data-client_id', clientId);
   divOnload.setAttribute('data-callback', 'handleCredentialResponse');
+  
+  //temporary fix to callback issue
+  player.SetVar("ConnexionTexte",'Welcome!\nAppuyez sur Allons-y.');
+  player.SetVar("AllonsyConnex",true);
 
   // Create the div element for g_id_signin
   var divSignin = document.createElement('div');
@@ -36,7 +75,7 @@ function Script1()
   // Append the script tag and div elements to the document's body element
   document.body.appendChild(script);
   document.body.appendChild(divOnload);
-  document.body.appendChild(divSignin);
+  //document.body.appendChild(divSignin);
 }
 
 handleSignIn();
