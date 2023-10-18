@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Projet-Termino-Build-Aug11" />
+              <option name="title_text" value="Projet-Termino-Build-Oct18" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1607,12 +1607,15 @@
             <slidelink slideid="_player.6aIbdLDyxDj.5yhI400SK3l" displaytext="Introduction de Jeu" expand="false" type="slide" />
             <slidelink slideid="_player.6aIbdLDyxDj.5sf1kS2qaLI" displaytext="Connexion" expand="false" type="slide" />
             <slidelink slideid="_player.6aIbdLDyxDj.65dbgCVjRZo" displaytext="Histoire" expand="false" type="slide" />
+            <slidelink slideid="_player.6aIbdLDyxDj.6X6zmOIovJl" displaytext="Histoire" expand="false" type="slide" />
+            <slidelink slideid="_player.6aIbdLDyxDj.6YRk0t7ufVY" displaytext="Histoire" expand="false" type="slide" />
+            <slidelink slideid="_player.6aIbdLDyxDj.5sNvlrqSwtX" displaytext="Histoire" expand="false" type="slide" />
+            <slidelink slideid="_player.6aIbdLDyxDj.5u381GjryUB" displaytext="Histoire" expand="false" type="slide" />
             <slidelink slideid="_player.6aIbdLDyxDj.6ORjDVhx5zw" displaytext="Choix de Robot" expand="false" type="slide" />
             <slidelink slideid="_player.6aIbdLDyxDj.5s8vn8JxEv9" displaytext="Choix de Nom" expand="false" type="slide" />
-            <slidelink slideid="_player.6aIbdLDyxDj.6kToaS79XGr" displaytext="Introduction de Robot" expand="false" type="slide" />
+            <slidelink slideid="_player.6aIbdLDyxDj.6kToaS79XGr" displaytext="Introduction de Robot (Robot Introduction)" expand="false" type="slide" />
             <slidelink slideid="_player.6aIbdLDyxDj.6WI3sFizvcC" displaytext="Introduction de Robot" expand="false" type="slide" />
             <slidelink slideid="_player.6aIbdLDyxDj.6GclEnUIhYE" displaytext="Guide" expand="false" type="slide" />
-            <slidelink slideid="_player.6aIbdLDyxDj.6QnT7kLPqBl" displaytext="Choix de Module" expand="false" type="slide" />
             <slidelink slideid="_player.6aIbdLDyxDj.6Cct1klzDUw" displaytext="Choix du Sous-Module" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1622,44 +1625,127 @@
             <slidelink slideid="_player.6erL31GmCxV.6c2MuGnqqUi" displaytext="Coffre a Badges" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.66z90euwuV0" displaytext="Deni De Service" expand="true" type="slide">
+        <slidelink slideid="_player.66z90euwuV0" displaytext="Genie Informatique" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.66z90euwuV0.6Ogj3aZHmb8" displaytext="DDS - Comment suivre votre progression" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6PlGSTKkuGA" displaytext="DDS - Première question" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6a9NofNt9uP" displaytext="DDS - Dictionnaire" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5cd7vhdNNFG" displaytext="DDS - Identifie Termes" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6eyM5iom8fn" displaytext="DDS - Cartes de support visuel" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6RXmw4I4DWp" displaytext="DDS - Jeu de correspondance" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.64gu4TcrA0D" displaytext="DDS - Introduction de noeuds" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5uwWBZ3NMak" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5aO5RYv9WrE" displaytext="DDS - Jeu des noeuds" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6jwi5txKplA" displaytext="DDS - Introduction de noeuds" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5cHE2rciz48" displaytext="DDS - Jeu des Attaques" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.61LCJkXaBIg" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6hjFJOxdP9e" displaytext="DDS - Choix Simple 1" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5fpzKyq8DVv" displaytext="DDS - Choix Simple 2" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5flRdT0uxR1" displaytext="DDS - Choix Simple 3" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5dhqwdXuoht" displaytext="DDS - Choix Simple 4" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5VkwTbvA2gs" displaytext="DDS - Choix Simple 5" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6pZh4dxqhFs" displaytext="DDS - Choix Simple 6" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6WbEqG2gjbn" displaytext="DDS - Choix Simple 7" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6ezQeQQq5dF" displaytext="DDS - Choix Simple 8" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6AB1qtr3eLe" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5po2pCTBhxO" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6pShjvldVnA" displaytext="DDS - Remplir les trous 1" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6RkGyMEsEa1" displaytext="DDS - Remplir les trous 2" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5uj5gO2aaab" displaytext="DDS - Remplir les trous 3" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.5dNYvBpDJ2q" displaytext="DDS - Remplir les trous 4" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6VTAPanDDie" displaytext="Lexique Chat" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.64estOyadfg" displaytext="Lexique Chat" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6eqkkp5W615" displaytext="Lexique Chat" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6ZtY5aFF4so" displaytext="DDS - Badge" expand="false" type="slide" />
-            <slidelink slideid="_player.66z90euwuV0.6EH23OQn3dh" displaytext="Not become an ID" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6qE26QrQ8WD" displaytext="Cerveau" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.64Zoopyzy4E" displaytext="DDS - Cliquez pour retourner" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5a6B68mvNLj" displaytext="DDS - Cliquez pour retourner" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6MoCcye1wRN" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5tUuBOns7M8" displaytext="Salle 360 - Debut" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6qBjHb5U9yG" displaytext="Salle 360 - Debut 2" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6eCyNeeqFkS" displaytext="Salle 360 - Debut 3" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6BRJ5ENiRvx" displaytext="Salle 360 - Computer Room" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6NHbgXGm904" displaytext="Salle 360 - Computer Room 2" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6KQDVuxXJob" displaytext="Salle 360 - Computer Room 3" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5h1X53cemhr" displaytext="Salle 360 - Computer Room 4" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5vHKAZzbWXI" displaytext="Salle 360 - Salle de Réunion 1" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6ZBjJsim28O" displaytext="Salle 360 - Salle de Réunion 2" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5xhruZFUcsa" displaytext="Salle 360 - Salle de Réunion 3" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5yxhjf81zFF" displaytext="Salle 360 - Salle de Réunion 4" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5otk0gCz9w2" displaytext="Salle 360 - Server Room" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.66kraIQ2kyy" displaytext="Salle 360 - Server Room 2" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.64g4yMSxQNB" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.5WWcrBUJ1eu" displaytext="Badge - Formation et Documentation" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6bg9qhOStbQ" displaytext="Badge - Applications mobiles" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.601SzaSAtRt" displaytext="Badge - Collaboration en equipe" expand="false" type="slide" />
+            <slidelink slideid="_player.66z90euwuV0.6p1wPzyNYdt" displaytext="Badge - Securite informatique" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5koUwekJ0Gm" displaytext="Realite Virtuelle" expand="true" type="slide">
+        <slidelink slideid="_player.5wXVlhdu2Es" displaytext="Rencontre le Patron" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5koUwekJ0Gm.6jEsJpK32aY" displaytext="RV - Premiere Question" expand="false" type="slide" />
+            <slidelink slideid="_player.5wXVlhdu2Es.5eXrpbqtGj0" displaytext="Rencontre le Patron" expand="false" type="slide" />
+            <slidelink slideid="_player.5wXVlhdu2Es.6k9RnySdMjK" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5wXVlhdu2Es.6hW8glRRKKK" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5wXVlhdu2Es.5ust3oJuMqx" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6mzYuIvhCGI" displaytext="Collègue en train de travailler" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6mzYuIvhCGI.5qj8S9P52Q2" displaytext="Rencontre le Patron" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.5bphq38pSu8" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6cdEBZMmIUf" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6KRDkMrBUcv" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6pVYLmmbCyq" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6Vv0NlnZ4TF" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.5Yo5G6Hwxqf" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6O5q8B1qCvk" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.5rRVPdnfZ4X" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.69TuU0ssMfB" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.5bBLHkubmZw" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6DlVoe43909" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.67SEICAhHUs" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6IcyFone7fQ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.6PlW76eEYPl" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6mzYuIvhCGI.5Z02pvJQ4fV" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5v2p4XEN7xt" displaytext="Jeu des Attaques" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5v2p4XEN7xt.6MWoy12NvEe" displaytext="Rencontre le Patron" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.661hmzHFIfk" displaytext="DDS - Première question" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.6INpIo3CYds" displaytext="DDS - Introduction de noeuds" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.5qnXUtkhcwB" displaytext="DDS - Jeu des Attaques" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.6n2nQ8KGFSn" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.6ga3YqmpEWp" displaytext="DDS - Choix Simple 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.64Bxw54gNHa" displaytext="DDS - Choix Simple 7" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.5gyOIUnFex4" displaytext="DDS - Choix Simple 7" expand="false" type="slide" />
+            <slidelink slideid="_player.5v2p4XEN7xt.5mv53s4d3Ws" displaytext="DDS - Choix Simple 7" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5t5sr9iiXaO" displaytext="Jeu des fils" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5t5sr9iiXaO.6bWnxs84N5k" displaytext="DDS - Cartes de support visuel" expand="false" type="slide" />
+            <slidelink slideid="_player.5t5sr9iiXaO.6SZBjlRQRuX" displaytext="DDS - Jeu de correspondance" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5wbJhqBlYxc" displaytext="Quiz Finale" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5wbJhqBlYxc.6nNRlBMH4QM" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6oo1NGPg0gA" displaytext="DDS - Choix Simple 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6VqCpedJ8Sy" displaytext="DDS - Choix Simple 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6aRaSIaaSPM" displaytext="DDS - Choix Simple 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.5hddqz0cVQO" displaytext="DDS - Choix Simple 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.5gKUrH5xIzz" displaytext="DDS - Choix Simple 5" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.63CUTnpiYH2" displaytext="DDS - Choix Simple 6" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.67TluXewhWl" displaytext="DDS - Choix Simple 7" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.67jrvLkgSIO" displaytext="DDS - Choix Simple 8" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6eJ7ntRPM3g" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.5pzgUqkMUjS" displaytext="DDS - Intro de Choix Simple" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6mMBFj7b2Df" displaytext="DDS - Remplir les trous 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.613ePKFreYv" displaytext="DDS - Remplir les trous 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6DC4yWT8APn" displaytext="DDS - Remplir les trous 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.609qhZOvbz5" displaytext="DDS - Remplir les trous 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6p7U4irahfY" displaytext="Lexique Chat" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6PCrsgrT7O5" displaytext="Lexique Chat" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6GhkwzNhWlE" displaytext="Lexique Chat" expand="false" type="slide" />
+            <slidelink slideid="_player.5wbJhqBlYxc.6qyMH5fGPbj" displaytext="DDS - Badge" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5XbGHulAkc4" displaytext="Collaboration en équipe" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5XbGHulAkc4.6EYN1tI3kFF" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.6fLUrVH23bD" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.5l9tHxMQDMZ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.6SPmCAHRd8F" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.5ksPe3QExtc" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.6PEmzQj7mMY" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.65tYkXIGBmb" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.6iGASdE2hXZ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.606aWR0b2II" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.5gW1mP95Q9C" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.6n3YZZ04uf1" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.6JPVvtTBbHA" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5XbGHulAkc4.6DdBPeRWaaZ" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ZoDWPW92i5" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ZoDWPW92i5.5zY9Yd1BUfE" displaytext="Rencontre le Patron" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZoDWPW92i5.6p3H1zcbWJw" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZoDWPW92i5.5ovWyX4YKhu" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZoDWPW92i5.6pmFGjEVXod" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6ZoDWPW92i5.5e14tOG3k49" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

@@ -2,11 +2,8 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6oxGwrwjMIF":
+      case "6bruv0E6eaA":
         Script1();
-        break;
-      case "6n0mn4NnjAb":
-        Script2();
         break;
   }
 }
@@ -85,11 +82,5 @@ function goodle(input) {
 }
 
 
-}
-
-function Script2()
-{
-  let scrollbar = document.getElementsByClassName("scrollarea-area")
-scrollbar[0].scrollTop = 99999999
 }
 
